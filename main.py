@@ -1,5 +1,6 @@
 # STEP 1A
 # Import SQL Library and Pandas
+from flask import Flask
 
 # STEP 1B
 # Connect to the database
